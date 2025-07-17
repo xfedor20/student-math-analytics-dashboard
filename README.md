@@ -2,7 +2,7 @@
 
 #  Student Performance Analysis & Prediction (Power BI + Python)
 
-This project explores and analyzes the academic performance of students based on demographic, social, and behavioral factors. It includes a combination of **descriptive analytics**, **diagnostic insights**, and a **machine learning prediction model** — all visualized in **Power BI dashboards**.
+This project explores and analyzes the academic performance of students based on demographic, social, and behavioral factors. It includes a combination of **descriptive analytics**, **diagnostic insights** — all visualized in **Power BI dashboards**.
 
 ---
 
@@ -51,11 +51,6 @@ This project explores and analyzes the academic performance of students based on
 - **DAX** – used for:
   - Category grouping (e.g., Absence Groups, Study Hours)
   - Derived columns and labels
-- **Machine Learning Model**:
-  - Algorithm: Random Forest Regressor
-  - Features: parental education, study time, absences, failures
-  - Evaluation: scatter plot comparing predicted vs actual grades
-
 ---
 
 ##  Example Visuals
